@@ -5,7 +5,9 @@ I work on tech businesses and the products that enable them. This includes:
 - Business model design / "New Bets"
 - Investments
 
-Currently, I'm playing with Quadratick, a web application I built, and helping investors and businesses think about their market, product and resource allocation opportunities better. 
+Currently, I'm playing with [Quadratick](http://www.quadratick.com), a web application I built to encourage familiarity of [quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting).
+
+I also help investors and businesses think about their market, product and resource allocation opportunities.
 
 Previously, I worked in an unusual, product-focused strategy role at Yahoo! & AOL, where I was the analytical lead for a set of B2B adtech and B2B2C on-device lines of business representing $1 billion+ in revenue. Before that, I worked in product, operations and growth at an information services startup in New York.
 
@@ -53,6 +55,8 @@ Finally, what happens when a new competitor disrupts your high-overhead distribu
 
 ## Interesting Theses
 [Non-ads Monetization]
+[Education: Delivery models and Support]
+
 
 
 ## Resources for Entrepreneurs
