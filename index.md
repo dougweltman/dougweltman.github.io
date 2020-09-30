@@ -76,4 +76,5 @@ Find me on [LinkedIn](https://www.linkedin.com/in/douglasweltman/)
 Read me on [Medium](https://medium.com/@douglasweltman)
 
 Question me on [Twitter](https://twitter.com/DouglasWeltman)
+
 *Not the considered view of Her Majesty's Government, the First Council of Nicaea, the United States Department of Defence, or anyone else, for that matter, including the author or his pet goldfish.*
