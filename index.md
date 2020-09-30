@@ -20,10 +20,10 @@ I live in London.
 
 ## Skills and Projects
 
-### [SQL exercises](https://github.com/dougweltman/SQL-exercises#readme)
+#### [SQL exercises](https://github.com/dougweltman/SQL-exercises#readme)
 A few exercises to showcase proficiency around selects, joins, conditions and other fairly basic SQL operations.
 
-### [Quadratick work](http://www.quadratick.com)
+#### [Quadratick work](http://www.quadratick.com)
 Continuing from my final project for HarvardX's CS50, I built Quadratick to let users set up, share and take polls using the quadratic voting method. Quadratic voting encodes information about the strengths of respondent preferences.
 
 This project has two goals: 1) to develop a working web application from scratch, then using it as a base to experiment with other technologies, and 2) to improve the public's understanding of the implementation and implications of alternative voting methods.
@@ -32,7 +32,7 @@ Developed using Flask (Python), PostgreSQL, JavaScript and HTML/Bootstrap. Deplo
 
 *Please be patient as the site might need a moment to load from a cold start.*
 
-### Models
+#### Models
 ##### [Sizing the opportunity for adtech on the open web, with implications for mobile carriers]()
 Questions around *addressable* market are often glossed over or ignored in the adtech world, where people tend to favor larger headline numbers. In fact, a signicant amount of spending on digital programmatic advertising is routed to unaddressable supply like Google's, Facebook's and Twitter's, or is being targeted with data assets that are difficult to unseat like Amazon's behavioral and intent graph.
 
