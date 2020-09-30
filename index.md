@@ -1,6 +1,6 @@
 ## Hey there. I'm Doug.
 
-![Image of Doug Weltman]()
+![Image of Doug Weltman](https://github.com/dougweltman/dougweltman.github.io/blob/master/IMG_1600.jpg)
 
 I work on tech businesses and the products that enable them. This includes:
 - Product
@@ -32,6 +32,14 @@ Developed using Flask (Python), PostgreSQL, JavaScript and HTML/Bootstrap. Deplo
 
 *Please be patient as the site might need a moment to load from a cold start.*
 
+### Models
+##### [Sizing the opportunity for adtech on the open web, with implications for mobile carriers]()
+Questions around *addressable* market are often glossed over or ignored in the adtech world, where people tend to favor larger headline numbers. In fact, a signicant amount of spending on digital programmatic advertising is routed to unaddressable supply like Google's, Facebook's and Twitter's, or is being targeted with data assets that are difficult to unseat like Amazon's behavioral and intent graph.
+
+This exercise takes a quick look at two key questions:
+1) how any adtech business needs to be thinking about its market opportunities, and
+2) the scale constraints any telco looking for an adtech play would need to confront.
+
 
 ## Writing
 ##### [Is nuclear energy a rich country's game?](https://medium.com/@douglasweltman/is-nuclear-power-a-rich-countrys-game-b60c1ff5f8c4?source=friends_link&sk=b6a8afb54d0a1910e3fe31ab64ce2869) *Confidence: N/A*
@@ -61,7 +69,6 @@ Tumblr's product was incompatible with a business model like Yahoo's. Decisions 
 Mark Zuckerberg in 2018 announced that Facebook's newsfeed would show more personal content. Investors responded unfavorably, perhaps fearing crimped ad revenues. 
 1) As-yet unconstrained supply might make this a dead-wrong analysis on the ads revenue piece, and 
 2) there is significant upside to Facebook in new, non-ads-based revenue streams as it experiments with enabling new marketplace models.
-
 
 ## Contact
 Find me on [LinkedIn](https://www.linkedin.com/in/douglasweltman/)
