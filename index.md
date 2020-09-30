@@ -34,7 +34,7 @@ Developed using Flask (Python), PostgreSQL, JavaScript and HTML/Bootstrap. Deplo
 
 
 ## Writing
-######[Is nuclear energy a rich country's game?](https://medium.com/@douglasweltman/is-nuclear-power-a-rich-countrys-game-b60c1ff5f8c4?source=friends_link&sk=b6a8afb54d0a1910e3fe31ab64ce2869)
+###### [Is nuclear energy a rich country's game?](https://medium.com/@douglasweltman/is-nuclear-power-a-rich-countrys-game-b60c1ff5f8c4?source=friends_link&sk=b6a8afb54d0a1910e3fe31ab64ce2869)
 Confidence: N/A
 Nuclear energy can solve a lot of the problems of fossil fuels, especially in countries with air pollution problems. But how do smaller economies absorb the costs of a Fukushima-scale accident?
 
