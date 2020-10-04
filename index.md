@@ -20,10 +20,7 @@ I live in London.
 
 ## Skills and Projects
 
-#### [SQL exercises](https://github.com/dougweltman/SQL-exercises#readme)
-A few exercises to showcase proficiency around selects, joins, conditions and other fairly basic SQL operations.
-
-#### [Quadratick work](http://www.quadratick.com)
+#### [Quadratick: Quadratic Voting for Everybody](http://www.quadratick.com)
 Continuing from my final project for HarvardX's CS50, I built Quadratick to let users set up, share and take polls using the quadratic voting method. Quadratic voting encodes information about the strengths of respondent preferences.
 
 This project has two goals: 1) to develop a working web application from scratch, then using it as a base to experiment with other technologies, and 2) to improve the public's understanding of the implementation and implications of alternative voting methods.
@@ -41,6 +38,9 @@ The second order question is how mobile carriers need to think about opportuniti
 This exercise takes a quick look at two key questions:
 1) How any adtech business needs to be thinking about its market opportunities, and
 2) The scale constraints any telco looking for an adtech play would need to confront
+
+#### [SQL exercises](https://github.com/dougweltman/SQL-exercises#readme)
+A few exercises to showcase proficiency around selects, joins, conditions and other fairly basic SQL operations.
 
 
 ## Writing
@@ -71,6 +71,7 @@ Tumblr's product was incompatible with a business model like Yahoo's. Decisions 
 Mark Zuckerberg in 2018 announced that Facebook's newsfeed would show more personal content. Investors responded unfavorably, perhaps fearing crimped ad revenues. 
 1) As-yet unconstrained supply might make this a dead-wrong analysis on the ads revenue piece, and 
 2) there is significant upside to Facebook in new, non-ads-based revenue streams as it experiments with enabling new marketplace models.
+
 
 ## Contact
 Find me on [LinkedIn](https://www.linkedin.com/in/douglasweltman/)
