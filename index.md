@@ -33,12 +33,14 @@ Developed using Flask (Python), PostgreSQL, JavaScript and HTML/Bootstrap. Deplo
 *Please be patient as the site might need a moment to load from a cold start.*
 
 #### Models
-##### [Sizing the opportunity for adtech on the open web, with implications for mobile carriers]()
-Questions around *addressable* market are often glossed over or ignored in the adtech world, where people tend to favor larger headline numbers. In fact, a signicant amount of spending on digital programmatic advertising is routed to unaddressable supply like Google's, Facebook's and Twitter's, or is being targeted with data assets that are difficult to unseat like Amazon's behavioral and intent graph.
+##### [Sizing opportunities across the programmatic adtech value chain](https://github.com/dougweltman/excel_models/blob/master/US_Programmatic_Market_2020.xlsx)
+Questions around *addressable* market are often glossed over or ignored in the adtech world, where larger headline numbers are favoured. In fact, a signicant amount of spending on digital programmatic advertising is routed to supply that is difficult for emergent businesses to address, like Google's, Facebook's and Twitter's. Likewise, spending that uses data assets that are difficult to unseat like Amazon's behavioral and intent graph is also difficult to address.
+
+The second order question is how mobile carriers need to think about opportunities in adtech.
 
 This exercise takes a quick look at two key questions:
-1) how any adtech business needs to be thinking about its market opportunities, and
-2) the scale constraints any telco looking for an adtech play would need to confront.
+1) How any adtech business needs to be thinking about its market opportunities, and
+2) The scale constraints any telco looking for an adtech play would need to confront
 
 
 ## Writing
@@ -76,5 +78,3 @@ Find me on [LinkedIn](https://www.linkedin.com/in/douglasweltman/)
 Read me on [Medium](https://medium.com/@douglasweltman)
 
 Question me on [Twitter](https://twitter.com/DouglasWeltman)
-
-*Disclaimer: Not the considered view of Her Majesty's Government, the First Council of Nicaea, the United States Department of Defence, or anyone else, for that matter, including the author or his pet goldfish.*
