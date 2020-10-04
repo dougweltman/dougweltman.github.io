@@ -7,9 +7,7 @@ I work on tech businesses and the products that enable them. This includes:
 - Business model design / "New Bets"
 - Investments
 
-Currently, I'm playing with [Quadratick](http://www.quadratick.com), a web application I built to encourage familiarity with [quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting).
-
-I also help businesses and investors think about their market, product and resource allocation opportunities.
+Currently, I'm playing with [Quadratick](http://www.quadratick.com), a web application I built to encourage adoption with [quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting). I also help businesses and investors think about their market, product and resource allocation opportunities.
 
 Previously, I worked in an unusual, product-focused strategy role at Yahoo! & AOL, where I was the analytical lead for a set of B2B adtech and B2B2C on-device lines of business representing $1 billion+ in revenue.
 
@@ -20,7 +18,7 @@ I live in London.
 
 ## Skills and Projects
 
-#### [Quadratick: Quadratic Voting for Everybody](http://www.quadratick.com)
+#### [Quadratick](http://www.quadratick.com): Quadratic Voting for Everybody
 Continuing from my final project for HarvardX's CS50, I built Quadratick to let users set up, share and take polls using the quadratic voting method. Quadratic voting encodes information about the strengths of respondent preferences.
 
 This project has two goals: 1) to develop a working web application from scratch, then using it as a base to experiment with other technologies, and 2) to improve the public's understanding of the implementation and implications of alternative voting methods.
