@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
 title: Doug Weltman
 description: Strategy, investments, product and new businesses
+show_downloads: false
 google_analytics: UA-152634683-1
+theme: jekyll-theme-midnight
