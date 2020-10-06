@@ -12,7 +12,7 @@ Previously, I worked in an unusual, product-focused strategy role at Yahoo! & AO
 
 Before Yahoo!/AOL, I worked in product, operations and growth at an enterprise SaaS startup in New York focused on financial data.
 
-I live in London.
+I live in London. 💂 🇬🇧 💂
 
 
 ## Skills and Projects
