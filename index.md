@@ -1,8 +1,6 @@
 # Hey there. I'm Doug.
 ____
 
-![Image of Doug Weltman](https://github.com/dougweltman/dougweltman.github.io/blob/master/IMG_1600.jpg)
-
 I work on tech businesses and the products that enable them. This includes:
 - Product
 - Business model design / "New Bets"
