@@ -49,9 +49,11 @@ A few exercises to showcase proficiency around selects, joins, conditions and ot
 ____
 
 ##### [Is nuclear energy a rich country's game?](https://medium.com/@douglasweltman/is-nuclear-power-a-rich-countrys-game-b60c1ff5f8c4?source=friends_link&sk=b6a8afb54d0a1910e3fe31ab64ce2869) *Confidence: N/A*
+☢️⚡💸
 Nuclear energy can solve a lot of the problems of fossil fuels, especially in countries with air pollution problems. But how do smaller economies absorb the costs of a Fukushima-scale accident?
 
 ##### [The Cheapest Covid-19 Response is the Most Expensive](https://medium.com/@douglasweltman/the-cheapest-covid-19-response-is-the-most-expensive-c58b87c41b6c?source=friends_link&sk=1ab10e48a4bc92136258139a669d4763) *Confidence: Low (2/7)*
+🦠💸
 A quick, cocktail napkin analysis of the social and economic dislocation of different Covid-19 policies suggests the priority must be to shorten the time needed to end the outbreak.
 
 ##### [The Trouble Competing with Tesla](https://medium.com/@douglasweltman/the-trouble-competing-with-tesla-8a35a13e7a6?source=friends_link&sk=a87e6bb30f4eb023a828a6974158cad8) *Confidence: High (6/7)*
@@ -69,7 +71,7 @@ Smart cities analytics and its tech stack represent only modest commercial oppor
 Because it's dumb to label an entire sector as dumb.
 
 ##### [Monetizing Tumblr and the challenge of categorizing content](https://medium.com/@douglasweltman/monetizing-tumblr-the-challenge-of-categorizing-content-3c81420cb173?source=friends_link&sk=e71a27932a3af7cef548b0742ffa783b) *Confidence: Medium-high (5/7)*
-Tumblr's product was incompatible with a business model like Yahoo's. Decisions baked into how content was organized on Tumblr undermined the value of its ad inventory.
+Tumblr's product was incompatible with a business model like Yahoo's. Decisions baked into how content was organized on Tumblr undermined the value of its ad inventory. 🤖
 
 ##### [Facebook is not supply-constrained](https://medium.com/@douglasweltman/rumors-of-facebooks-demise-are-greatly-exaggerated-efb8676a4060?source=friends_link&sk=e7ff6cd84d07a544678c5aaab9385351) *Confidence: Part 1: Medium-low (2/7); Part 2: Speculative (1/7)*
 Mark Zuckerberg in 2018 announced that Facebook's newsfeed would show more personal content. Investors responded unfavorably, perhaps fearing crimped ad revenues. 
