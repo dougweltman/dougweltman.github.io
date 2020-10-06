@@ -18,6 +18,8 @@ I live in London.
 
 ## Skills and Projects
 
+Below you can find some projects I've worked on or some models that you're free to peruse.
+
 #### [Quadratick](http://www.quadratick.com): Quadratic Voting for Everybody
 Continuing from my final project for HarvardX's CS50, I built Quadratick to let users set up, share and take polls using the quadratic voting method. Quadratic voting encodes information about the strengths of respondent preferences.
 
@@ -28,6 +30,7 @@ Developed using Flask (Python), PostgreSQL, JavaScript and HTML/Bootstrap. Deplo
 *Please be patient as the site might need a moment to load from a cold start.*
 
 #### Models
+
 ##### [Sizing opportunities across the programmatic adtech value chain](https://github.com/dougweltman/excel_models/blob/master/US_Programmatic_Market_2020.xlsx)
 Questions around *addressable* market are often glossed over or ignored in the adtech world, where larger headline numbers are favoured. In fact, a signicant amount of spending on digital programmatic advertising is routed to supply that is difficult for emergent businesses to address, like Google's, Facebook's and Twitter's. Likewise, spending that uses data assets that are difficult to unseat like Amazon's behavioral and intent graph is also difficult to address.
 
@@ -38,10 +41,12 @@ This exercise takes a quick look at two key questions:
 2) The scale constraints any telco looking for an adtech play would need to confront
 
 #### [SQL exercises](https://github.com/dougweltman/SQL-exercises#readme)
+
 A few exercises to showcase proficiency around selects, joins, conditions and other fairly basic SQL operations.
 
 
 ## Writing
+
 ##### [Is nuclear energy a rich country's game?](https://medium.com/@douglasweltman/is-nuclear-power-a-rich-countrys-game-b60c1ff5f8c4?source=friends_link&sk=b6a8afb54d0a1910e3fe31ab64ce2869) *Confidence: N/A*
 Nuclear energy can solve a lot of the problems of fossil fuels, especially in countries with air pollution problems. But how do smaller economies absorb the costs of a Fukushima-scale accident?
 
