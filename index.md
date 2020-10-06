@@ -46,6 +46,7 @@ A few exercises to showcase proficiency around selects, joins, conditions and ot
 
 
 ## Writing
+____
 
 ##### [Is nuclear energy a rich country's game?](https://medium.com/@douglasweltman/is-nuclear-power-a-rich-countrys-game-b60c1ff5f8c4?source=friends_link&sk=b6a8afb54d0a1910e3fe31ab64ce2869) *Confidence: N/A*
 Nuclear energy can solve a lot of the problems of fossil fuels, especially in countries with air pollution problems. But how do smaller economies absorb the costs of a Fukushima-scale accident?
@@ -61,7 +62,7 @@ Finally, what happens when a new competitor disrupts your high-overhead distribu
 ##### [The Long-term Economics of Podcast Distribution](https://medium.com/@douglasweltman/will-the-future-economics-of-podcast-distribution-look-more-like-spotify-or-facebook-a1d7cb19815a?source=friends_link&sk=1893410414dc455a89d70c7e380bfb55) *Confidence: Medium (4/7)*
 Why is Facebook better at making money than Netflix and Spotify? Wholesale transfer pricing, content aggregation and an approach to thinking about podcast distribution.
 
-##### [Smart Cities are Dumb*.](https://medium.com/@douglasweltman/smart-cities-are-dumb-48a680a1d84a?source=friends_link&sk=3e63b5261b79893c9134b4c214ba04b0) *Confidence: Medium-low (3/7)*
+##### [Smart Cities are Dumb, usually.](https://medium.com/@douglasweltman/smart-cities-are-dumb-48a680a1d84a?source=friends_link&sk=3e63b5261b79893c9134b4c214ba04b0) *Confidence: Medium-low (3/7)*
 Smart cities analytics and its tech stack represent only modest commercial opportunities, and are limited by four interlocking factors.
 
 ##### [Niche Plays in Smart Cities.](https://medium.com/@douglasweltman/niche-plays-in-smart-cities-and-municipal-iot-d71d93a7117?source=friends_link&sk=91dc1402e6219890d37891be953a3363) *Confidence: Low (2/7)*
