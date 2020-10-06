@@ -1,4 +1,5 @@
-## Hey there. I'm Doug.
+# Hey there. I'm Doug.
+____
 
 ![Image of Doug Weltman](https://github.com/dougweltman/dougweltman.github.io/blob/master/IMG_1600.jpg)
 
@@ -11,12 +12,13 @@ Currently, I'm playing with [Quadratick](http://www.quadratick.com), a web appli
 
 Previously, I worked in an unusual, product-focused strategy role at Yahoo! & AOL, where I was the analytical lead for a set of B2B adtech and B2B2C on-device lines of business representing $1 billion+ in revenue.
 
-Before Yahoo!/AOL, I worked in product, operations and growth at an enterprise SaaS startup in New York.
+Before Yahoo!/AOL, I worked in product, operations and growth at an enterprise SaaS startup in New York focused on financial data.
 
 I live in London.
 
 
 ## Skills and Projects
+____
 
 Below you can find some projects I've worked on or some models that you're free to peruse.
 
@@ -78,6 +80,8 @@ Mark Zuckerberg in 2018 announced that Facebook's newsfeed would show more perso
 
 
 ## Contact
+____
+
 Find me on [LinkedIn](https://www.linkedin.com/in/douglasweltman/)
 
 Read me on [Medium](https://medium.com/@douglasweltman)
